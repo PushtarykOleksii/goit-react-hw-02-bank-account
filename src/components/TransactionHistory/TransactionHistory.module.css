@@ -1,0 +1,28 @@
+.history {
+  margin: 0 auto;
+  width: 900px;
+  text-align: center;
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+.history thead {
+  background-color: #ebeef3;
+  font-size: 20px;
+  line-height: 60px;
+  color: #000000;
+}
+
+tr,
+td,
+th,
+thead {
+  border: 1px solid black;
+}
+.line {
+  height: 40px;
+  color: gray;
+  font-size: 17px;
+  font-weight: bold;
+  text-transform: uppercase;
+}

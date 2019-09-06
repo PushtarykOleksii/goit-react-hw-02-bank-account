@@ -1,0 +1,14 @@
+.balance {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.balance span {
+  display: inline-block;
+  width: 200px;
+}

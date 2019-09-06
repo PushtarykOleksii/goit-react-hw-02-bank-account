@@ -1,0 +1,39 @@
+.controls {
+  margin: 0;
+  padding: 0;
+  background-color: #062b55;
+  height: 30px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+.imput {
+  height: 40px;
+  border-radius: 3px;
+  font-size: 16px;
+  outline: none;
+  border: none;
+}
+
+.button {
+  width: 100px;
+  height: 50px;
+  background-color: blue;
+  margin-right: 20px;
+  margin-left: 20px;
+  outline: none;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.controls input {
+  width: 250px;
+  background-color: #ffffff;
+}
+
+.controls:last-child {
+  margin: 0;
+}
